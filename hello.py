@@ -5,7 +5,7 @@ def add(x, y):
 
 def sub(x, y):
     """This is another amazing function"""
-    return x + y # this is a bug
+    return x - y # bug fixed
     
     
 print(add(1, 1))
