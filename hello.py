@@ -10,3 +10,4 @@ def sub(x, y):
     
     
 print(add(1, 1))
+print(sub(1, 1))
