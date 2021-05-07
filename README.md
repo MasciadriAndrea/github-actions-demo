@@ -9,8 +9,8 @@ This is a repo for building out Github Actions and Tricks. This is what i did:
 * performed the following operations: install, lint and test via GitHub Actions
 * changed the project over more Cloud Environments
 
-[Demo Video of this repo](https://www.youtube.com/watch?v=4gbUYOgALik)
 
+https://user-images.githubusercontent.com/9716507/117455758-c7873d80-af47-11eb-8ea4-ec7176d14e91.mov
 
 
 ## Steps to run this project
