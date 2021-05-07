@@ -1,4 +1,5 @@
 [![AWS 3.7](https://github.com/MasciadriAndrea/github-actions-demo/actions/workflows/aws.yml/badge.svg)](https://github.com/MasciadriAndrea/github-actions-demo/actions/workflows/aws.yml)
+[![GCP Python 3.7](https://github.com/MasciadriAndrea/github-actions-demo/actions/workflows/gcp.yml/badge.svg)](https://github.com/MasciadriAndrea/github-actions-demo/actions/workflows/gcp.yml)
 
 # Multi-Cloud Continuous Integration sample project
 
