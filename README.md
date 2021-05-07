@@ -2,8 +2,10 @@
 
 # Multi-Cloud Continuous Integration sample project
 
-This is a repo for building out Github Actions and Tricks.  I test multiple clouds and multiple versions of Python.
-
+This is a repo for building out Github Actions and Tricks. This is what i did:
+* I practiced setting up this project over two Cloud environment: AWS Cloud9 and Google Cloud Shell.
+* performed the following operations: install, lint and test via GitHub Actions
+* changed the project over more Cloud Environments
 
 [Demo Video of this repo](https://www.youtube.com/watch?v=4gbUYOgALik)
 
